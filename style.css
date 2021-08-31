@@ -1,0 +1,23 @@
+body {
+    
+    text-align: center;
+}
+#app{
+    width:450px;
+    height:800px;
+    background-color: blue;
+}
+#game lab{
+    width:450px;
+    height:800px;
+    background-color:chocolate;
+}
+#chat bot{
+    width:450px;
+    height:800px;
+    background-color:yellow
+}
+
+
+
+
